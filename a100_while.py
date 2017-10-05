@@ -14,7 +14,6 @@ Created on Wed Sep 27 02:05:11 2017
 @author: sitibanc
 """
 
-# Define a recursive function to calculate the (n3 + 1 algorithm) value of n
 table = [0] * 1000001
 table[1] = 1
 
